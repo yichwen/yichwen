@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yichwen
-- 👀 I’m interested in learning Spring Boot, Spring Cloud, Docker, and Kubernetes
-- 🌱 I’m currently learning Spring Cloud
+- 👀 I’m interested in learning Spring Ecosystem, Vue.js, Blockchain
+- 🌱 I’m currently learning Vue.js and Spring Framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
