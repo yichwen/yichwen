@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yichwen
-- 👀 I’m interested in learning Spring Ecosystem, Vue.js, Blockchain
+- 👀 I’m interested in learning Spring family, Vue.js, Blockchain
 - 🌱 I’m currently learning Vue.js and Spring Framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
